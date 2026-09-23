@@ -52,3 +52,19 @@ if(isset($_POST['submit']))
 
 </body>
 </html>
+
+Output:
+
+Simple Calculator
+
+Number 1: [20]
+
+Number 2: [5]
+
+[Calculate]
+
+
+Sum: 25
+Difference: 15
+Product: 100
+Quotient: 4
